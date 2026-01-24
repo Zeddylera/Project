@@ -105,13 +105,13 @@
       <repository>
         <id>nexus</id>
         <name>DataPandas Releases Nexus Repository</name>
-        <url>http://13.42.47.6:8081/repository/Evana-Release/</url>
+        <url>http://18.134.147.138:8081/repository/Afua-Release/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
         <name>DataPandas Snapshot Nexus Repository </name>
-        <url>http://13.42.47.6:8081/repository/Evana-snapshot/</url>
+        <url>http://18.134.147.138:8081/repository/Afua-Snapshot/</url>
       </snapshotRepository>
       
   </distributionManagement>
