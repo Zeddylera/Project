@@ -105,19 +105,19 @@
       <repository>
         <id>nexus</id>
         <name>DataPandas Releases Nexus Repository</name>
-        <url>http://3.8.82.149:8081/repository/Jenkins-Release/</url>
+        <url>http://13.41.64.149:8081/repository/MrBlud-Release/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
         <name>DataPandas Snapshot Nexus Repository </name>
-        <url>http://3.8.82.149:8081/repository/Jenkins-Snapshot/</url>
+        <url>http://13.41.64.149:8081/repository/MrBlud-SnapShot/</url>
       </snapshotRepository>
       
   </distributionManagement>
 	
 	<build>
-		<finalName>BritishAirways</finalName>
+		<finalName>MrBlud-Project</finalName>
 		
 		<plugins>
 			<plugin>
