@@ -2,13 +2,13 @@ pipeline {
     // agent { label 'ubuntu' }
     agent any
     tools {
-        maven "maven3910"
+        maven "maven394"
     }
  /* key stuff 'stages'  */
     stages{
         stage("01. GetCode"){ 
           steps{
-            git branch: 'main', url: 'https://github.com/benadaba/maven-web-application.git'
+            git branch: 'main', url: 'https://github.com/Zeddylera/Project.git'
           }
         }
         stage("02. Clean"){
