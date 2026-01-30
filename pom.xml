@@ -117,7 +117,7 @@
   </distributionManagement>
 	
 	<build>
-		<finalName>MrBlud-Project</finalName>
+		<finalName>Ike-Project</finalName>
 		
 		<plugins>
 			<plugin>
